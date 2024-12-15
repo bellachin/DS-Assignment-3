@@ -1,2 +1,3 @@
-# DS-Assignment-3
-data scraping pt.2
+# DS-Assignment-3 Description
+
+In this assignment, I am analyzing NYC Green Taxi trip data for February 2023 to evaluate its viability as a data source for the NYC Taxi and Limousine Commission (TLC). The assignment involves loading and inspecting the dataset in parquet format, cleaning and transforming the data, handling missing and invalid values, and performing exploratory data analysis to uncover insights about taxi usage patterns in New York City. Key Python technical features include the use of **Pandas** for data manipulation and cleaning, such as inspecting dimensions and data types, converting variables to appropriate types, and handling missing values with imputation and deletion. I also leverage summary statistics and conditional filtering to identify and address invalid data (e.g., negative fare amounts or tips). Furthermore, I use **Matplotlib** to create bar charts for visualizing trip trends, such as the most common cab-hailing methods, top pickup locations, and top drop-off locations. This combination of data wrangling, cleaning, and visualization ensures a thorough and actionable analysis of the dataset.
